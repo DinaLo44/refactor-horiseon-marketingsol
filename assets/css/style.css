@@ -55,7 +55,7 @@ p {
     font-size: 16px;
 }
 
-/*Class selectors-Services descriptions*/
+/*Class selectors-It applies to all services descriptions (Search Engine Optimization, Online Reputation Management and Social Media Marketing*/
 .hero {
     height: 800px;
     width: 100%;
@@ -81,7 +81,7 @@ p {
     margin-left: 20px;
 }
 
-/*Class selectors-Search Engine Optimization*/
+/*Class selectors-Specifically for Search Engine Optimization*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -100,7 +100,7 @@ p {
     font-size: 36px;
 }
 
-/*Class selectors-Online Reputation Management*/
+/*Class selectors-Specifically for Online Reputation Management*/
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -119,7 +119,7 @@ p {
     font-size: 36px;
 }
 
-/*Class selectors-Social Media Marketing*/
+/*Class selectors-Specifically for Social Media Marketing*/
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
