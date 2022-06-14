@@ -14,7 +14,7 @@ I set up comments in the CSS file according to the organization of the semantic 
 
 Here is a screenshot of the final website:
 
-![horiseon-marketingsol screenshot]([Horiseon screenshot.png](https://github.com/DinaLo44/refactor-horiseon-marketingsol/blob/main/Horiseon%20screenshot.png))
+![horiseon-marketingsol screenshot][Horiseon screenshot.png] (<img src="https://github.com/DinaLo44/refactor-horiseon-marketingsol/blob/main/Horiseon%20screenshot.png">)
 
 Here is the link of the deployed application:
 
