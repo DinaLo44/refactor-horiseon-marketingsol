@@ -19,4 +19,4 @@ Here is a screenshot of the final website:
 Here is the link of the deployed application:
 
 
-<img src="https://github.com/DinaLo44/refactor-horiseon-marketingsol/blob/main/Horiseon%20screenshot.png">
+
