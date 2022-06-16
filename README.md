@@ -5,6 +5,8 @@ This project required to carefully review the codebase for a marketing agency's 
 The changes included:
 
 - Replacing multiple HTML elements and edit the names for some of the ids and classes. 
+
+- Some of the CSS selectors were deleted since they were repetitive and unnecessary.
   
 - The title was changed from "website" to the actual name displyed in the footer to be consistent.
  
@@ -12,9 +14,9 @@ The changes included:
 
 - The link for the Search Engine Optimization navigation item was not working at all, thus it was necessary to add the respective "id" inside the anchor element.
   
-- The main image code was established in the CSS file, thus it was established in the HTML file with its corresponding alt attribute.
+- The main image code was established in the CSS file, thus it was established in the HTML file with its corresponding "alt" attribute.
 
-- The alt attribute was added into all images tags.
+- The "alt" attribute was added into all images tags.
 
 - Comments in the CSS file were stated according to the organization of the semantic HTML elements. 
 
