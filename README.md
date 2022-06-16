@@ -2,7 +2,9 @@
 
 This project required to carefully review the codebase for a marketing agency's website called "Horiseon" and refactor it in order to make it more organized and clear.
 
-- The changes included replacing multiple HTML elements and edit the names for some of the ids and classes. 
+The changes included:
+
+- Replacing multiple HTML elements and edit the names for some of the ids and classes. 
   
 - The title was changed from "website" to the actual name displyed in the footer to be consistent.
  
