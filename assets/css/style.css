@@ -50,19 +50,17 @@ a {
     text-decoration: none;
 }
 
-/*Element selector-All paragraphs*/
+/*Element selector-All paragraphs font size*/
 p {
     font-size: 16px;
 }
 
-/*Class selectors-It applies to all services descriptions (Search Engine Optimization, Online Reputation Management and Social Media Marketing*/
-.services-boxes {
+/*Class selectors-It applies to the main image of the website located right below the header*/
+.main-image {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
-    background-position: center;
+    
 }
 /*Class selectors- Placement and margin size for the Search Engine Optimization and Social Media Marketing boxes*/
 .float-left {
@@ -76,14 +74,8 @@ p {
     margin-left: 25px;
 }
 
-/*Class selectors- Placement for the benefits description box (Lead Generation, Brand Awareness and Cost Management*/
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
 
-/*Class selectors- Services main box*/
+/*Class selectors- Services boxes*/
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
@@ -109,6 +101,14 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/*Class selectors- Placement for the benefits description box (Lead Generation, Brand Awareness and Cost Management*/
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
 
 /*Class selectors-It applies to the box where the benefits are displayed*/
 .benefits {
