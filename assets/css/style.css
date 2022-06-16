@@ -63,7 +63,7 @@ p {
     
 }
 
-/*Class selectors- It applies to the whole section that includes the boxes for each service*/
+/*Class selectors- It applies to the section that includes the boxes for each service*/
 .services-content {
     width: 75%;
     display: inline-block;
