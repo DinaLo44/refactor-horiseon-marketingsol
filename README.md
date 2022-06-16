@@ -14,7 +14,7 @@ The changes included:
 
 - The link for the Search Engine Optimization navigation item was not working at all, thus it was necessary to add the respective "id" inside the anchor element.
   
-- The main image code was established in the CSS file, thus it was established in the HTML file with its corresponding "alt" attribute.
+- The main image code was located in the CSS file, thus it was established in the HTML file with its corresponding "alt" attribute.
 
 - The "alt" attribute was added into all images tags.
 
