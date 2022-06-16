@@ -63,7 +63,7 @@ p {
     
 }
 
-/*Class selectors- It applies to the section that includes the boxes for each service*/
+/*Class selectors- It applies to the whole section that includes the boxes for each service*/
 .services-content {
     width: 75%;
     display: inline-block;
@@ -71,7 +71,7 @@ p {
 }
 
 
-/*Class selectors- Services boxes*/
+/*Class selectors- It applies to each individual box for each service*/
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
