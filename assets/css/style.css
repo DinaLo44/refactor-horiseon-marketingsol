@@ -81,7 +81,7 @@ p {
     margin-left: 20px;
 }
 
-/*Class selectors- All services*/
+/*Class selectors- All services-main box*/
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
@@ -93,12 +93,14 @@ p {
     color: #ffffff;
 }
 
+/*Class selectors- images height for all services*/
 .search-engine-optimization img,
 .online-reputation-management img,
 .social-media-marketing img {
     max-height: 200px;
 }
 
+/*Class selectors-second level headings included in all services text*/
 .search-engine-optimization h2,
 .online-reputation-management h2,
 .social-media-marketing h2 {
@@ -106,7 +108,7 @@ p {
     font-size: 36px;
 }
 
-/*Class selectors-Benefits descriptions*/
+/*Class selectors-description the 3 displayed benefits*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -117,7 +119,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/*Class selectors-Lead Generation benefits*/
+/*Class selectors-Lead Generation benefits section*/
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -134,7 +136,7 @@ p {
     max-width: 150px;
 }
 
-/*Class selectors-Brand Awareness benefits*/
+/*Class selectors-Brand Awareness benefits section*/
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
@@ -151,7 +153,7 @@ p {
     max-width: 150px;
 }
 
-/*Class selectors-Cost Management benefits*/
+/*Class selectors-Cost Management benefits section*/
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
